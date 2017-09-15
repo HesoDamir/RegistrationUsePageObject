@@ -1,0 +1,15 @@
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\RegistrationUsePageObject.dll
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\RegistrationUsePageObject.pdb
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\nunit.framework.dll
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\WebDriver.dll
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\WebDriver.Support.dll
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\WebDriver.pdb
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\WebDriver.xml
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\WebDriver.Support.pdb
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\bin\Debug\WebDriver.Support.xml
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\obj\Debug\RegistrationUsePageObject.csprojResolveAssemblyReference.cache
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\obj\Debug\RegistrationUsePageObject.dll
+D:\AutomatedTesting\RegistrationUsePageObject\RegistrationUsePageObject\obj\Debug\RegistrationUsePageObject.pdb
