@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿
 using RegistrationUsePageObject.TestHelper;
 using NUnit.Framework;
-using TestingProject.Tests;
 using RegistrationUsePageObject.Framework;
 
 namespace TestingProject.Tests
