@@ -26,11 +26,11 @@ namespace TestingProject
             driver.Manage().Window.Maximize();
         }
 
-        [TearDown]
-        public void avterTest()
-        {
-            driver.Close();
-        }
+        //[TearDown]
+        //public void avterTest()
+        //{
+        //    driver.Close();
+        //}
 
         [TestFixtureTearDown]
         public void afterClass()
