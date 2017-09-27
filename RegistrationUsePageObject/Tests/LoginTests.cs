@@ -19,7 +19,7 @@ namespace TestingProject.Tests
         {
             string email = "test.qds." + Utils.seed + "@mail.ru";
             string name = "test";
-            string phone = "82222222222";
+            string phone = "82222332222";
 
             loginHelper.
                 DoLogin(email, name, phone);
