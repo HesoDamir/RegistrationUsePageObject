@@ -18,7 +18,7 @@ namespace TestingProject.Tests
         public static void AssertLogin()
         {
             string email = "test.qds." + Utils.seed + "@mail.ru";
-            string name = "test";
+            string name = "testic";
             string phone = "82222332222";
 
             loginHelper.
