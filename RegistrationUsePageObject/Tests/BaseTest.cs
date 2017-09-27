@@ -7,26 +7,26 @@ namespace TestingProject
     public class BaseTest : BaseObject
     {
         [TestFixtureSetUp] //выполняется перед запуском всех тестов
-        public void beforeClass()
+        public void BeforeClass()
         {
             driver = new ChromeDriver();
         }
 
         [SetUp] //выполнялся перед запуском каждого теста в текущем тест сьюте 
-        public void beforeTest()
+        public void BeforeTest()
         {
             driver.Navigate().GoToUrl(BaseObject.baseUrl);
             driver.Manage().Window.Maximize();
         }
 
         //[TearDown]
-        //public void avterTest()
+        //public void AfterTest()
         //{
         //    driver.Close();
         //}
 
         [TestFixtureTearDown]
-        public void afterClass()
+        public void AfterClass()
         {
             driver.Quit();
         }
